@@ -5,6 +5,7 @@
       <mapping pattern="jenkins-verify" type="Groovy" />
       <mapping pattern="jenkins-duncan" type="Groovy" />
       <mapping pattern="Jenkinsfile-verify" type="Groovy" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
