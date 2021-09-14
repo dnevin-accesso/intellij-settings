@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
-    <mask>*.htm</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
     <mask>*.sht</mask>
@@ -18,7 +16,8 @@
     <mask>*-spec.js</mask>
     <mask>*</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.html</mask>
+    <mask>*.js</mask>
+    <mask>*.htm</mask>
   </component>
 </application>
